@@ -6,20 +6,14 @@ ICO
 Open Points
 =====================================
 
-
-
-* What is the total supply?
-* How much do we want to raise? min cap? max cap?
-
-* Which currencies are we accepting for the ICO? (BTC, ETH, anything else?)
-* will be the KYC available for the pre-registration process to the ICO?
+* What % of allocation is distributed in the private-sale in relation to the % sold in the crowdsale?
 * Are tokens accessible immediately after transaction or only after the ICO end?
+* What happens if the private-sale target is not reached?
 * If the goal is not met, does the ICO continues until the payments reach the min cap?
-* What % of allocation is distributed in the pre-sale in relation to the % sold in the crowdsale?
-* what happens if the pre-sale target is not reached?
 * What is the ICO bonus scheme for early buyers?
 * Are raised funds returned if the goal is not met?
 * What is the founders initial token supply?
+* What is the total supply?
 * Allocation — What % are given to team, investors, partners, reserving for the ecosystem, reserving for the company/foundation?
 * Where will the money that you raise go to? have an annual budget for the next 5 years.
 * Does a bouty program exists? if so, how is it structured?
@@ -35,8 +29,27 @@ Open Points
 
 Answers
 =====================================
+
 * What is the purpose of the token?
-To increase the exchange adoption and robustness, Infinity Trade Coin ``8TC`` holders will have the possibility to claim ``x%`` of the total platform trading commissions, just by holding 8TC in their accounts. The award is calculated daily, based on to the 8TC holdings in user's account at 0:00 (UTC+1) and then claimed by the users.
+	#. To increase the exchange adoption and robustness, Infinity Trade Coin ``8TC`` holders will have the possibility to claim ``x%`` of the total platform trading commissions, just by holding 8TC in their accounts. The award is calculated daily, based on to the 8TC holdings in user's account at 0:00 (UTC+1) and then claimed by the users.
+
+	#. To increase the exchange adoption and robustness, Infinity Trade Coin ``8TC`` holders will have the possibility to obtain a ``x%`` discount on trading commissions, just by holding 8TC in their accounts.
+
+* How much do we want to raise? min cap? max cap?
+	Based on our need for future development the minimum amount to be raises is at least 3 million euro.
+	Because of this we set milestones during the ICO that will enable incremental features
+	#. soft cap  - € 3M 
+		App Market
+	#. mid cap - € 7M
+		App Market, Music Market	
+	#. Hard cap - 15M
+		App Market, Music Market, Sport Market	
+
+* Which currencies are we accepting for the ICO? (BTC, ETH, anything else?)
+	BTC and ETH
+
+* Will be the KYC available for the pre-registration process to the ICO?
+	yes
 
 * What do we need this money for? road map?
 
