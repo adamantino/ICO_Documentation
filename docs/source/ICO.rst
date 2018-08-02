@@ -6,16 +6,7 @@ ICO
 Open Points
 =====================================
 
-* How much do we want to raise? min cap? max cap?
-	Based on our need for future development the minimum amount to be raises is at least 3 million euro.
-	Because of this, we set milestones during the ICO that will enable incremental features:
 
-	#. soft cap  - € 3M 
-		App Market
-	#. mid cap - € 7M
-		App Market, Music Market	
-	#. Hard cap - € 15M
-		App Market, Music Market, Sport Market	
 
 * What is the total supply? 
 * What % of allocation is distributed in the private-sale in relation to the % sold in the crowdsale?
@@ -46,6 +37,17 @@ Answers
 
 	#. To increase the exchange adoption and robustness, Infinity Trade Coin ``8TC`` holders will have the possibility to obtain a ``x%`` discount on trading commissions, just by holding 8TC in their accounts.
 
+
+* How much do we want to raise? min cap? max cap?
+	Based on our need for future development the minimum amount to be raises is at least 3 million euro.
+	Because of this, we set milestones during the ICO that will enable incremental features:
+
+	#. soft cap  - € 3M 
+		App Market
+	#. mid cap - € 7M
+		App Market, Music Market	
+	#. Hard cap - € 15M
+		App Market, Music Market, Sport Market	
 
 
 * Which currencies are we accepting for the ICO? (BTC, ETH, anything else?)
