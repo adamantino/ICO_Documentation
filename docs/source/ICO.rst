@@ -17,7 +17,7 @@ Open Points
 	#. Hard cap - € 15M
 		App Market, Music Market, Sport Market	
 
-* What is the total supply?
+* What is the total supply? 
 * What % of allocation is distributed in the private-sale in relation to the % sold in the crowdsale?
 * Are tokens accessible immediately after transaction or only after the ICO end?
 * What happens if the private-sale target is not reached?
@@ -25,7 +25,7 @@ Open Points
 * What is the ICO bonus scheme for early buyers?
 * Are raised funds returned if the goal is not met?
 * What is the founders initial token supply?
-* Allocation — What % are given to team, investors, partners, reserving for the ecosystem, reserving for the company/foundation?
+* Allocation — What % are given to team, investors, partners, bounty, reserving for the ecosystem, reserving for the company/foundation?
 * Where will the money that you raise go to? have an annual budget for the next 5 years.
 * Does a bouty program exists? if so, how is it structured?
 * Are funds raised during the ICO released during some vesting periods or under particular circumstances?
@@ -50,6 +50,7 @@ Answers
 
 * Which currencies are we accepting for the ICO? (BTC, ETH, anything else?)
 	BTC and ETH
+	If so then we will need some complexity in the smart contract such as `btcrelay <http://btcrelay.org>`_
 
 * Will be the KYC available for the pre-registration process to the ICO?
 	yes
@@ -199,7 +200,7 @@ Summary
 Ticker                8TC
 Token  	              ERC20
 Value                 1 8TC = x€ 
-Accepted currency     ETH   
+Accepted currency     ETH, BTC
 Total Supply          200.000.000 8TC
 Soft cap              $ 1M
 Hard cap              $ 8M
@@ -211,7 +212,7 @@ Bonus discount program
 ====================  ====================  
 	  Property				Value  		
 ====================  ====================  
-Private Sale          $ 4M
+Private Sale          4M
 750K  	              40% discount
 2M                    30% discount
 1.25M                 20% discount
