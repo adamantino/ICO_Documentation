@@ -8,7 +8,7 @@ Open Points
 
 
 
-* What is the total supply? 
+* What is the total supply? Are we open to further Coin Offering trances? if so, how are these structured?
 * What % of allocation is distributed in the private-sale in relation to the % sold in the crowdsale?
 * Are tokens accessible immediately after transaction or only after the ICO end?
 * What happens if the private-sale target is not reached?
